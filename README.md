@@ -1,5 +1,12 @@
 # Project Prometheus
 
+[![GitHub release](https://img.shields.io/github/v/release/aicubeKruz/project-prometheus)](https://github.com/aicubeKruz/project-prometheus/releases)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/aicubeKruz/project-prometheus)](https://github.com/aicubeKruz/project-prometheus/issues)
+[![Docker](https://img.shields.io/badge/docker-supported-blue)](https://docs.docker.com/)
+[![Safety: Themis](https://img.shields.io/badge/safety-Themis%20monitored-green)](https://github.com/aicubeKruz/project-prometheus)
+
 A hierarchical multi-agent system for AGI research and development, implementing a "society of minds" architecture with specialized AI agents collaborating in a structured yet adversarial ecosystem.
 
 ## Architecture Overview
@@ -57,8 +64,8 @@ Project Prometheus is executed by a hierarchical, multi-agent system composed of
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd project_prometheus
+git clone https://github.com/aicubeKruz/project-prometheus.git
+cd project-prometheus
 ```
 
 2. Install dependencies:
@@ -223,14 +230,18 @@ Project Prometheus implements multiple safety layers:
 
 ## License
 
-[License information to be added]
+This project is licensed under the MIT License with additional safety considerations - see the [LICENSE](LICENSE) file for details.
+
+**Safety Notice**: This system is designed for AGI research. Always ensure proper safety measures and monitoring are in place.
 
 ## Support
 
 For questions and support:
-- Documentation: See `/docs` directory
-- Issues: Use GitHub issues
-- API Reference: Available at `/docs` endpoint when running
+- **Repository**: [https://github.com/aicubeKruz/project-prometheus](https://github.com/aicubeKruz/project-prometheus)
+- **Documentation**: See [DEPLOYMENT.md](DEPLOYMENT.md) for deployment guide
+- **Contributing**: See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines
+- **Issues**: Use [GitHub issues](https://github.com/aicubeKruz/project-prometheus/issues)
+- **API Reference**: Available at `/docs` endpoint when running
 
 ## Roadmap
 
