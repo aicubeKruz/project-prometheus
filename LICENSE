@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2024 AICUBE TECHNOLOGY - Project Prometheus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+SAFETY NOTICE:
+
+This software is designed for research and development of Artificial General 
+Intelligence (AGI) systems. Users are responsible for:
+
+1. Implementing appropriate safety measures and monitoring systems
+2. Following AI safety best practices and ethical guidelines  
+3. Ensuring proper oversight and human control over all operations
+4. Conducting thorough safety evaluations before deployment
+5. Reporting any safety concerns or unexpected behaviors immediately
+
+The developers and contributors disclaim any liability for misuse of this 
+software or any consequences arising from inadequate safety measures. 
+
+This system includes safety mechanisms such as the Themis oversight agent, 
+but users must ensure these are properly configured and monitored. Always 
+prioritize safety over functionality in AGI research and development.
+
+For safety-related questions or concerns, please consult with AGI safety 
+experts and follow established safety protocols in your organization.
